@@ -1,0 +1,9 @@
+name: Josh Nankin's Website
+highlighter: pygments
+encoding: utf-8
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
